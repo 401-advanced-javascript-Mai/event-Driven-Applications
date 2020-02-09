@@ -1,0 +1,25 @@
+{
+  "name": "event-Driven-Applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "edit-file.js",
+  "scripts": {
+    "test": "jest --verbose --coverage ",
+    "lint":"eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Mai/event-Driven-Applications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Mai/event-Driven-Applications/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Mai/event-Driven-Applications#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  }
+}
